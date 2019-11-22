@@ -1,15 +1,15 @@
 package com.example;
 
 public class Car {
-	private Integer speed;
+	private Integer carSpeed;
 	private String bodyColor;
 
-	public Integer getSpeed() {
-		return speed;
+	public Integer getcarSpeed() {
+		return carSpeed;
 	}
 
 	public void setSpeed(Integer speed) {
-		this.speed = speed;
+		this.carSpeed = speed;
 	}
 
 	public String getBodyColor() {
